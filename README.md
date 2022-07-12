@@ -1,6 +1,8 @@
 # eniac_magist_collaboration
 
-This is a Data analysis project using SQL and Tableau.
+This is a Data analysis project using SQL and Tableau. The main goal is to recommend whether or not to sign a contract with the Magist company.
+An Overview about the setting and the main business questions can be found further down.
+
 The csv-files used can be found inside the data folder.
 
 ## Tech used in this project
