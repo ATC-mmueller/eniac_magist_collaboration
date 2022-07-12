@@ -32,3 +32,40 @@ There are two main concerns:
 
 - Eniac’s catalog is 100% tech products, and heavily based on Apple-compatible accessories. It is not clear that the marketplaces Magist works with are a good place for these high-end tech products.
 - Among Eniac’s efforts to have happy customers, fast deliveries are key. The delivery fees resulting from Magist’s deal with the public Post Office might be cheap, but at what cost? Are deliveries fast enough?
+
+
+## Basic questions
+
+- How many orders are in the dataset?
+- Are orders actually delivered?
+- Is Magist having user growth?
+- How many products are there in the products table?
+- What are the categories with the most products?
+- How many of those products were present in actual transactions?
+- What are the prices of the most expensive / cheapest products?
+- What are the highest / lowest payment values?
+
+## Questions aimed towards answering the business questions
+
+### Questions in relation to the products:
+- What categories of tech products does Magist have?
+- How many products of these tech categories have been sold (within the time window of the database snapshot)? 
+- What percentage does that represent from the overall number of products sold?
+- What’s the average price of the products being sold?
+- Are expensive tech products popular?
+
+### In relation to the sellers:
+
+- How many months of data are included in the magist database?
+- How many sellers are there? How many Tech sellers are there? 
+- What percentage of overall sellers are Tech sellers?
+- What is the total amount earned by all sellers? 
+- What is the total amount earned by all Tech sellers?
+- What is the average monthly income of all sellers? 
+- What is the average monthly income of Tech sellers?
+
+### In relation to the delivery time:
+
+- What’s the average time between the order being placed and the product being delivered?
+- How many orders are delivered on time vs orders delivered with a delay?
+- Is there any pattern for delayed orders, e.g. big products being delayed more often?
